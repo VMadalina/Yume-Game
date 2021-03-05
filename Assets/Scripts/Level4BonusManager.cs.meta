@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38a32af8c2e41b943b13365d6f60e26d
+timeCreated: 1515066247
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - star: {fileID: 1962647275267332, guid: 117fee1df159db641913790652627ce2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
